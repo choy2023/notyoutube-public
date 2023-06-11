@@ -1,0 +1,31 @@
+@import "../../homepage/rendervideos.css";
+
+.skeleton_thumbnail, .skeleton_videocard_left_thumbnail, .skeleton_videocard_channel{
+  animation: skeleton-loading 1s infinite alternate;
+}
+
+.skeleton_thumbnail{
+  width: 360px;
+}
+
+.skeleton_videocard_channel{
+  margin-top: 10px;
+  width: 20em;
+  height: 0.25em;
+  margin-bottom: 5px;
+}
+
+
+.skeleton_videocard_channel:last-child{
+  width: 5em;
+}
+
+
+@keyframes skeleton-loading {
+  from {
+    background-color: hsla(0, 0%, 100%, 0.364);
+  }
+  to {
+    background-color: hsla(202, 22%, 90%, 0.216);
+  }
+}

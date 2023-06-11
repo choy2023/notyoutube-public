@@ -1,0 +1,18 @@
+.start_container {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  height: 56px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  width: 169px;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 10px;
+  justify-content: center;
+}

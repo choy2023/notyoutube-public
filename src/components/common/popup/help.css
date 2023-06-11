@@ -1,0 +1,16 @@
+.help_pop_up_container {
+    position: fixed;
+    z-index: 99999;
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    transform: translateY(-100%);
+    opacity: 0;
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+  }
+  
+  .help_pop_up_container.open {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  

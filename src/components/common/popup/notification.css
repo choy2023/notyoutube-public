@@ -1,0 +1,15 @@
+.bottom_right_container {
+  float: fixed;
+  bottom: 0vh;
+  margin-left: 240px;
+  margin-bottom: 50px;
+  width: 50%;
+  color: black;
+  z-index: 9999;
+  background-color: rgb(255, 255, 255);
+}
+
+#link_color {
+  color: red;
+  font-weight: 900;
+}

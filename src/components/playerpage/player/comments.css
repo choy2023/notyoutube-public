@@ -1,0 +1,33 @@
+@import "../../homepage/rendervideos.css";
+
+#player_comments_videocard_right {
+  display: flex;
+  flex-direction: row;
+}
+
+#videocard_right_pusblishedat {
+  color: rgb(170, 170, 170);
+  margin-left: 5px;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+}
+
+#player_comments_container {
+  align-items: flex-start;
+  justify-content: flex-start;
+  justify-items: flex-start;
+  color: white;
+}
+
+.videocard_right_textdisplay {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  white-space: pre-wrap;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+}

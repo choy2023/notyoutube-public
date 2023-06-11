@@ -1,0 +1,86 @@
+.burger_icon_container {
+  align-items: center;
+  display: inline-flex;
+  height: 24px;
+  justify-content: center;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  position: relative;
+  width: 24px;
+  font-family: Arial;
+  font-feature-settings: normal;
+  font-kerning: auto;
+  font-optical-sizing: auto;
+  font-size: 13.3333px;
+  font-stretch: 100%;
+  font-style: normal;
+  font-variant-alternates: normal;
+  font-variant-caps: normal;
+  font-variant-east-asian: normal;
+  font-variant-ligatures: normal;
+  font-variant-numeric: normal;
+  font-variation-settings: normal;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: 0px;
+  text-align: center;
+  text-indent: 0px;
+  text-shadow: none;
+  text-transform: none;
+  vertical-align: middle;
+  word-spacing: 0px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  text-rendering: auto;
+  writing-mode: horizontal-tb;
+  fill: rgb(255, 255, 255);
+  stroke: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+
+
+
+.burger_icon_svg {
+  display: block;
+  height: 24px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  width: 24px;
+  font-family: Arial;
+  font-feature-settings: normal;
+  font-kerning: auto;
+  font-optical-sizing: auto;
+  font-size: 13.3333px;
+  font-stretch: 100%;
+  font-style: normal;
+  font-variant-alternates: normal;
+  font-variant-caps: normal;
+  font-variant-east-asian: normal;
+  font-variant-ligatures: normal;
+  font-variant-numeric: normal;
+  font-variation-settings: normal;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: 0px;
+  text-align: center;
+  text-indent: 0px;
+  text-shadow: none;
+  text-transform: none;
+  word-spacing: 0px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  text-rendering: auto;
+  writing-mode: horizontal-tb;
+  fill: rgb(255, 255, 255);
+  overflow-clip-margin: content-box;
+  pointer-events: none;
+  stroke: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
